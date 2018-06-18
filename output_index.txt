@@ -1,0 +1,692 @@
+able {'Doc2.docx': [[1864]]}
+academic {'Doc3.docx': [[823]], 'Doc6.docx': [[0, 105, 1033, 1600, 1701, 2121, 2198]]}
+access {'Doc6.docx': [[276, 354]]}
+accommodations {'Doc3.docx': [[2710]]}
+accomplishments {'Doc2.docx': [[1458]]}
+aces {'Doc5.docx': [[51, 163, 352, 564, 599, 830, 863]]}
+achieved {'Doc4.docx': [[135]]}
+across {'Doc3.docx': [[512, 1253]]}
+acs {'Doc6.docx': [[28, 1685, 2092]]}
+action {'Doc3.docx': [[1789]]}
+activism {'Doc3.docx': [[44, 218]]}
+activities {'Doc1.docx': [[1470]], 'Doc2.docx': [[345, 1545]], 'Doc3.docx': [[260, 2797]]}
+activity {'Doc3.docx': [[2182]]}
+additinal {'Doc5.docx': [[929]]}
+administrative {'Doc5.docx': [[718]]}
+admissions {'Doc1.docx': [[2153]], 'Doc2.docx': [[3212]], 'Doc4.docx': [[1718]]}
+aeroacoustic {'Doc4.docx': [[342]]}
+aeroastro {'Doc4.docx': [[41, 1529]]}
+aerodynamic {'Doc4.docx': [[319]]}
+aeroelastic {'Doc4.docx': [[355]]}
+aeronautics {'Doc4.docx': [[14, 1136]]}
+aerospace {'Doc4.docx': [[177, 844, 982, 1017]]}
+aerothermal {'Doc4.docx': [[367]]}
+affiliates {'Doc4.docx': [[1752]]}
+afs {'Doc6.docx': [[489]]}
+afternoon {'Doc2.docx': [[1504]]}
+aid {'Doc4.docx': [[1741]]}
+aim {'Doc2.docx': [[2547]]}
+algorithms {'Doc4.docx': [[284, 1348]]}
+als {'Doc5.docx': [[9, 123, 312, 536]]}
+also {'Doc3.docx': [[1867, 2144]]}
+alto {'Doc2.docx': [[704]]}
+alumni {'Doc1.docx': [[215, 2193]], 'Doc2.docx': [[223, 463, 1806, 1961, 2459, 3252]], 'Doc5.docx': [[240]], 'Doc6.docx': [[194]]}
+american {'Doc3.docx': [[251, 2788]]}
+among {'Doc4.docx': [[404]]}
+amyotrophic {'Doc5.docx': [[506]]}
+analysis {'Doc1.docx': [[349, 622, 892]]}
+anesthesia {'Doc2.docx': [[9, 118, 488, 832, 988, 1378, 2428, 2448, 2528, 2613]]}
+anniversary {'Doc2.docx': [[523]]}
+announce {'Doc3.docx': [[345]]}
+annual {'Doc6.docx': [[702]]}
+application {'Doc3.docx': [[96, 2315, 2327, 3584]]}
+applications {'Doc4.docx': [[391]]}
+apply {'Doc1.docx': [[294]], 'Doc3.docx': [[3471]]}
+approaches {'Doc1.docx': [[592, 738]], 'Doc4.docx': [[1190]]}
+approaching {'Doc2.docx': [[502]]}
+approximation {'Doc4.docx': [[242]]}
+area {'Doc2.docx': [[1687]]}
+arrillaga {'Doc2.docx': [[1796]]}
+asian {'Doc3.docx': [[245, 2782]]}
+ask {'Doc6.docx': [[747]]}
+aspects {'Doc4.docx': [[152]]}
+assesment {'Doc1.docx': [[648]]}
+assigned {'Doc3.docx': [[3429]]}
+associate {'Doc5.docx': [[733]]}
+assu {'Doc6.docx': [[816]]}
+astronautics {'Doc4.docx': [[28, 1152]]}
+attend {'Doc3.docx': [[3143, 3297]]}
+attendance {'Doc2.docx': [[1980]]}
+audio {'Doc6.docx': [[307]]}
+available {'Doc6.docx': [[1725]]}
+aviation {'Doc4.docx': [[1644]]}
+barbara {'Doc5.docx': [[657]]}
+barriers {'Doc4.docx': [[433]]}
+based {'Doc3.docx': [[1038, 1313]], 'Doc4.docx': [[70, 918, 1553]]}
+bay {'Doc2.docx': [[1683]]}
+become {'Doc4.docx': [[523]]}
+believe {'Doc3.docx': [[1100]]}
+better {'Doc4.docx': [[235]]}
+black {'Doc2.docx': [[1724]], 'Doc3.docx': [[278, 2819]]}
+block {'Doc6.docx': [[39, 2103]]}
+blog {'Doc6.docx': [[519]]}
+building {'Doc1.docx': [[2352]], 'Doc2.docx': [[927, 3411]], 'Doc3.docx': [[162, 371]]}
+bunker {'Doc2.docx': [[778]]}
+calendar {'Doc6.docx': [[480]]}
+calendars {'Doc2.docx': [[2126]]}
+campus {'Doc1.docx': [[1091]], 'Doc2.docx': [[684, 1205, 1590, 1827]]}
+cantor {'Doc2.docx': [[1188]]}
+care {'Doc1.docx': [[832, 1346, 1512, 1843, 1890, 2393]], 'Doc2.docx': [[2902, 2949, 3452]]}
+careers {'Doc1.docx': [[2393]], 'Doc2.docx': [[3452]]}
+carefully {'Doc3.docx': [[135]]}
+carried {'Doc4.docx': [[953]]}
+case {'Doc1.docx': [[1599]]}
+cases {'Doc4.docx': [[616]]}
+celebrate {'Doc2.docx': [[901, 1894]]}
+celebration {'Doc2.docx': [[30, 139, 333, 437, 1759, 2335, 2634]]}
+center {'Doc1.docx': [[1004, 1080, 1895, 2070]], 'Doc2.docx': [[1813, 2954, 3129]], 'Doc3.docx': [[271, 303, 968, 1854, 2396, 2459, 2575, 2618, 2808, 2844]], 'Doc6.docx': [[1897]]}
+centers {'Doc1.docx': [[2070]], 'Doc2.docx': [[3129]], 'Doc3.docx': [[968, 2459, 2575, 2618]], 'Doc5.docx': [[811]]}
+central {'Doc6.docx': [[454]]}
+centro {'Doc3.docx': [[317, 2858]]}
+chair {'Doc2.docx': [[805, 2324]]}
+change {'Doc3.docx': [[753, 908, 1058, 1283, 1452, 1470, 1601, 1806, 2074, 2175, 2280, 3372]]}
+checkout {'Doc6.docx': [[538, 660, 850, 896]]}
+chicano {'Doc3.docx': [[324, 2865]]}
+children {'Doc1.docx': [[1945]], 'Doc2.docx': [[3004]]}
+christine {'Doc5.docx': [[743]]}
+citizenship {'Doc3.docx': [[1733]]}
+civic {'Doc3.docx': [[1556]]}
+civility {'Doc3.docx': [[1720]]}
+clark {'Doc1.docx': [[1074]]}
+class {'Doc3.docx': [[658, 2111]], 'Doc6.docx': [[336, 1259, 1283, 1352]]}
+classroom {'Doc6.docx': [[336]]}
+click {'Doc3.docx': [[3497]]}
+clinical {'Doc1.docx': [[854, 1881, 2029]], 'Doc2.docx': [[622, 2940, 3088]]}
+clinically {'Doc1.docx': [[854]]}
+clinics {'Doc1.docx': [[1922]], 'Doc2.docx': [[2981]]}
+cluster {'Doc4.docx': [[501]]}
+collaboration {'Doc1.docx': [[420]], 'Doc3.docx': [[498, 1674, 3012]]}
+collaborative {'Doc3.docx': [[1138, 1319]]}
+colleagues {'Doc2.docx': [[1323, 1936]]}
+color {'Doc3.docx': [[186, 395]]}
+comment {'Doc6.docx': [[1550, 2037]]}
+comments {'Doc2.docx': [[2236]]}
+commitment {'Doc3.docx': [[1663]]}
+committee {'Doc2.docx': [[2347]]}
+common {'Doc3.docx': [[1688]], 'Doc5.docx': [[426]]}
+communities {'Doc3.docx': [[171, 380, 537, 1260]]}
+community {'Doc1.docx': [[941, 2221, 2264, 2315]], 'Doc2.docx': [[709, 3280, 3323, 3374]], 'Doc3.docx': [[284, 958, 1905, 2449, 2608, 2825, 3002]]}
+complaints {'Doc6.docx': [[2303]]}
+complemented {'Doc4.docx': [[591]]}
+complete {'Doc3.docx': [[3354]]}
+complex {'Doc4.docx': [[1375]]}
+computation {'Doc4.docx': [[56, 163, 830, 904, 1176, 1274, 1449, 1539]]}
+computational {'Doc4.docx': [[56, 163, 830, 904, 1176, 1274, 1539]]}
+computer {'Doc6.docx': [[237, 445, 1012]]}
+computers {'Doc6.docx': [[1012]]}
+computing {'Doc4.docx': [[417, 509, 992]], 'Doc6.docx': [[9, 114, 717, 784, 1042, 2130]]}
+congruence {'Doc3.docx': [[1652]]}
+connections {'Doc6.docx': [[214, 1801]]}
+consciousness {'Doc3.docx': [[1630]]}
+consider {'Doc2.docx': [[2489]]}
+consideration {'Doc3.docx': [[2472]]}
+consisting {'Doc2.docx': [[1263]]}
+consists {'Doc3.docx': [[561]]}
+consortium {'Doc5.docx': [[13, 127, 297]]}
+constraints {'Doc2.docx': [[2061]]}
+contact {'Doc1.docx': [[1741, 2428, 2512]], 'Doc2.docx': [[2471, 3487, 3571]], 'Doc4.docx': [[1793]], 'Doc5.docx': [[998]], 'Doc6.docx': [[1442, 1929]]}
+continue {'Doc3.docx': [[636, 2043]]}
+continues {'Doc3.docx': [[636]]}
+continuing {'Doc1.docx': [[2164]], 'Doc2.docx': [[3223]]}
+control {'Doc4.docx': [[383, 1566]]}
+controversy {'Doc3.docx': [[1703]]}
+coordinator {'Doc5.docx': [[684]]}
+copyright {'Doc6.docx': [[2293]]}
+core {'Doc3.docx': [[1618, 1891]]}
+cost {'Doc1.docx': [[712]], 'Doc3.docx': [[2890]]}
+course {'Doc3.docx': [[426, 3311]]}
+coursework {'Doc6.docx': [[1744]]}
+create {'Doc3.docx': [[1414]]}
+creation {'Doc3.docx': [[1825]]}
+credit {'Doc3.docx': [[832]]}
+cross {'Doc3.docx': [[513, 1254, 2996]]}
+culminates {'Doc3.docx': [[698]]}
+current {'Doc2.docx': [[1304, 1370, 1478]]}
+curriculum {'Doc4.docx': [[1690]]}
+cycle {'Doc4.docx': [[748]]}
+data {'Doc1.docx': [[389, 920]]}
+database {'Doc5.docx': [[640]]}
+deal {'Doc4.docx': [[1210]]}
+dean {'Doc1.docx': [[2461]], 'Doc2.docx': [[3520]]}
+dear {'Doc2.docx': [[449]]}
+decades {'Doc4.docx': [[103]]}
+deliver {'Doc1.docx': [[840]]}
+department {'Doc1.docx': [[119, 1234, 2045]], 'Doc2.docx': [[474, 565, 818, 876, 974, 1439, 1908, 2601, 3104]], 'Doc4.docx': [[0, 794]]}
+departments {'Doc1.docx': [[1234, 2045]], 'Doc2.docx': [[2601, 3104]]}
+design {'Doc1.docx': [[778]], 'Doc4.docx': [[76, 688, 741, 924, 1027, 1466, 1559]]}
+designed {'Doc3.docx': [[724, 1501]]}
+designs {'Doc4.docx': [[688]]}
+desire {'Doc3.docx': [[1583, 2499]]}
+desk {'Doc6.docx': [[687]]}
+details {'Doc6.docx': [[1133]]}
+determined {'Doc3.docx': [[3387]]}
+develop {'Doc1.docx': [[282, 524, 580, 1563]]}
+developed {'Doc4.docx': [[305]]}
+development {'Doc1.docx': [[524, 1563]], 'Doc3.docx': [[414, 1085]]}
+developments {'Doc1.docx': [[524]]}
+device {'Doc6.docx': [[249]]}
+diagnostic {'Doc1.docx': [[661, 727]]}
+different {'Doc4.docx': [[1104]]}
+digital {'Doc6.docx': [[1370]]}
+dinner {'Doc2.docx': [[1743]]}
+directions {'Doc1.docx': [[1145, 2446, 2523]], 'Doc2.docx': [[3505]]}
+director {'Doc5.docx': [[569, 607]]}
+discussion {'Doc3.docx': [[1969]]}
+discussions {'Doc2.docx': [[1277]]}
+disease {'Doc5.docx': [[556]]}
+display {'Doc1.docx': [[362]]}
+diverse {'Doc3.docx': [[1380, 2516]]}
+diversity {'Doc3.docx': [[57, 231]]}
+division {'Doc2.docx': [[856]], 'Doc6.docx': [[2154]]}
+donation {'Doc2.docx': [[2507]]}
+dorosin {'Doc5.docx': [[753]]}
+drive {'Doc1.docx': [[1098]]}
+due {'Doc2.docx': [[2050]]}
+early {'Doc2.docx': [[2153]]}
+editing {'Doc6.docx': [[323]]}
+edu {'Doc2.docx': [[380, 2278, 3154, 3242]]}
+education {'Doc1.docx': [[440, 1319, 1390, 2095, 2183]], 'Doc2.docx': [[3154, 3242]], 'Doc3.docx': [[34, 208]], 'Doc6.docx': [[1919]]}
+effective {'Doc1.docx': [[717]], 'Doc3.docx': [[1224, 1421]]}
+efficient {'Doc1.docx': [[326]]}
+eighth {'Doc3.docx': [[1884]]}
+elected {'Doc6.docx': [[928]]}
+email {'Doc6.docx': [[474]]}
+emergency {'Doc1.docx': [[1965]], 'Doc2.docx': [[3024]]}
+emerging {'Doc3.docx': [[1021]]}
+emphasizes {'Doc3.docx': [[1296]]}
+enable {'Doc4.docx': [[1305]]}
+engineering {'Doc4.docx': [[187, 676, 854]]}
+engineers {'Doc4.docx': [[724]]}
+enhance {'Doc4.docx': [[649, 763]]}
+enhanced {'Doc2.docx': [[277]]}
+enjoy {'Doc2.docx': [[1623]]}
+entire {'Doc3.docx': [[3223]]}
+environmental {'Doc5.docx': [[453]]}
+epidemiologic {'Doc5.docx': [[27, 141, 330]]}
+epidemiological {'Doc5.docx': [[27]]}
+equipment {'Doc1.docx': [[1731]], 'Doc6.docx': [[528]]}
+etc {'Doc2.docx': [[1603]]}
+ethnic {'Doc3.docx': [[530, 951]]}
+evening {'Doc2.docx': [[1136, 1701, 2089]]}
+events {'Doc4.docx': [[1745]]}
+every {'Doc3.docx': [[3327]]}
+exciting {'Doc6.docx': [[637]]}
+execute {'Doc3.docx': [[737, 2158]]}
+executed {'Doc3.docx': [[737]]}
+exercises {'Doc3.docx': [[1997]]}
+expectations {'Doc3.docx': [[2931]]}
+experience {'Doc2.docx': [[286]], 'Doc3.docx': [[2640]]}
+experiences {'Doc6.docx': [[794]]}
+experiential {'Doc3.docx': [[1984]]}
+exploration {'Doc1.docx': [[610]]}
+exploring {'Doc3.docx': [[478]]}
+factors {'Doc5.docx': [[494]]}
+faculty {'Doc1.docx': [[1680, 2078]], 'Doc2.docx': [[1972, 3137]], 'Doc4.docx': [[1653]], 'Doc6.docx': [[159]]}
+fall {'Doc3.docx': [[577, 851]]}
+families {'Doc5.docx': [[904]]}
+farm {'Doc2.docx': [[1057, 1886]]}
+faster {'Doc4.docx': [[268]]}
+fax {'Doc2.docx': [[2391]]}
+feature {'Doc2.docx': [[1714]]}
+fellow {'Doc3.docx': [[611]]}
+fellowships {'Doc1.docx': [[1418]]}
+fidelity {'Doc4.docx': [[206, 1265]]}
+fill {'Doc3.docx': [[78, 3566]]}
+financial {'Doc4.docx': [[1731]]}
+find {'Doc1.docx': [[201, 248, 1857, 1874, 2414]], 'Doc2.docx': [[209, 256, 2916, 2933, 3473]], 'Doc5.docx': [[226, 273]]}
+finding {'Doc6.docx': [[1523, 2010]]}
+first {'Doc2.docx': [[799]]}
+flash {'Doc2.docx': [[310]]}
+flex {'Doc6.docx': [[1278, 1347]]}
+floor {'Doc6.docx': [[1588]]}
+focuses {'Doc4.docx': [[1050]]}
+following {'Doc3.docx': [[2007, 3077]]}
+footer {'Doc1.docx': [[2499]], 'Doc2.docx': [[3558]], 'Doc5.docx': [[985]], 'Doc6.docx': [[2096]]}
+former {'Doc2.docx': [[1316]]}
+foster {'Doc3.docx': [[2989]]}
+founding {'Doc2.docx': [[542]]}
+framework {'Doc3.docx': [[1125]]}
+frameworks {'Doc4.docx': [[1079]]}
+francis {'Doc2.docx': [[737, 1786]]}
+francisco {'Doc2.docx': [[737]]}
+free {'Doc2.docx': [[305]]}
+frg {'Doc4.docx': [[1046]]}
+fri {'Doc6.docx': [[1641]]}
+friday {'Doc2.docx': [[1129]], 'Doc3.docx': [[3251]]}
+friends {'Doc2.docx': [[1947]]}
+funded {'Doc3.docx': [[2768]]}
+garden {'Doc2.docx': [[1177]]}
+gehrig {'Doc5.docx': [[547]]}
+genetic {'Doc5.docx': [[481]]}
+get {'Doc2.docx': [[297, 2894]]}
+getting {'Doc1.docx': [[1766, 1835]], 'Doc2.docx': [[2894]]}
+giant {'Doc4.docx': [[111]]}
+give {'Doc1.docx': [[196, 243, 2409]], 'Doc2.docx': [[204, 251, 3468]], 'Doc5.docx': [[221, 268]]}
+given {'Doc3.docx': [[2486]]}
+giving {'Doc4.docx': [[1774]]}
+goal {'Doc5.docx': [[433]]}
+goals {'Doc1.docx': [[434]]}
+grads {'Doc6.docx': [[751, 766]]}
+graphic {'Doc6.docx': [[1312, 1420]]}
+group {'Doc3.docx': [[1388, 2213, 3419]], 'Doc5.docx': [[377]]}
+groups {'Doc3.docx': [[1388, 3419]]}
+guest {'Doc2.docx': [[1043, 2044]]}
+guests {'Doc2.docx': [[1043]]}
+handle {'Doc4.docx': [[1368]]}
+hardware {'Doc4.docx': [[465]]}
+health {'Doc1.docx': [[2249]], 'Doc2.docx': [[3308]], 'Doc4.docx': [[1614]]}
+help {'Doc6.docx': [[201, 331, 401, 507, 1822]]}
+helpsu {'Doc6.docx': [[507]]}
+hierarchical {'Doc3.docx': [[1156, 1341]]}
+high {'Doc4.docx': [[199, 1260]]}
+higher {'Doc4.docx': [[199]]}
+hikes {'Doc2.docx': [[1556]]}
+history {'Doc1.docx': [[1698]]}
+home {'Doc1.docx': [[1314, 1385]], 'Doc5.docx': [[868]]}
+hope {'Doc2.docx': [[1847]]}
+hospital {'Doc1.docx': [[1911, 1956]], 'Doc2.docx': [[719, 2970, 3015]]}
+hotels {'Doc1.docx': [[1177]], 'Doc2.docx': [[405]]}
+hours {'Doc6.docx': [[1594]]}
+identify {'Doc5.docx': [[444]]}
+image {'Doc6.docx': [[301]]}
+images {'Doc1.docx': [[672]]}
+imaging {'Doc1.docx': [[104, 381, 560, 912, 996]]}
+improve {'Doc4.docx': [[696]]}
+include {'Doc2.docx': [[1234]], 'Doc6.docx': [[624]]}
+included {'Doc3.docx': [[1872]]}
+including {'Doc2.docx': [[2027]], 'Doc6.docx': [[1141]]}
+increasing {'Doc3.docx': [[2235]]}
+increasingly {'Doc4.docx': [[578]]}
+individuals {'Doc3.docx': [[1399]]}
+industry {'Doc1.docx': [[1351, 1625]]}
+info {'Doc6.docx': [[1861, 1892, 2207]]}
+information {'Doc1.docx': [[1749]], 'Doc2.docx': [[2167]], 'Doc6.docx': [[2207]]}
+infrastructure {'Doc1.docx': [[1643]]}
+innovative {'Doc1.docx': [[300]], 'Doc4.docx': [[873]]}
+installed {'Doc6.docx': [[1160]]}
+instill {'Doc3.docx': [[1513]]}
+institutes {'Doc1.docx': [[2057]], 'Doc2.docx': [[3116]]}
+integrate {'Doc4.docx': [[1383, 1439]]}
+integrated {'Doc4.docx': [[1383]]}
+interested {'Doc3.docx': [[464]]}
+international {'Doc5.docx': [[363]]}
+internet {'Doc6.docx': [[267]]}
+inventory {'Doc6.docx': [[581]]}
+invite {'Doc2.docx': [[1023]]}
+involvement {'Doc3.docx': [[2589]]}
+irt {'Doc1.docx': [[2604]], 'Doc2.docx': [[3639]], 'Doc5.docx': [[1079]]}
+issues {'Doc3.docx': [[488]]}
+items {'Doc6.docx': [[547, 650]]}
+itnyre {'Doc5.docx': [[707]]}
+jacqueline {'Doc5.docx': [[696]]}
+james {'Doc1.docx': [[1066]]}
+jobs {'Doc1.docx': [[1761]], 'Doc6.docx': [[1835]]}
+john {'Doc2.docx': [[773]]}
+joseph {'Doc6.docx': [[915]]}
+kautz {'Doc6.docx': [[922]]}
+kick {'Doc2.docx': [[1113]]}
+know {'Doc6.docx': [[1460, 1947]]}
+lab {'Doc1.docx': [[13, 423, 1167, 1260, 1303, 1713, 1785]], 'Doc4.docx': [[1002, 1034, 1685]], 'Doc6.docx': [[1721, 1729]]}
+laboratory {'Doc1.docx': [[1260, 1303]], 'Doc4.docx': [[1002]]}
+labs {'Doc4.docx': [[1685]]}
+lane {'Doc1.docx': [[222, 2200]], 'Doc2.docx': [[230, 3259]], 'Doc5.docx': [[247]]}
+large {'Doc4.docx': [[1220]]}
+last {'Doc4.docx': [[94, 360]]}
+later {'Doc2.docx': [[764]]}
+lateral {'Doc5.docx': [[518]]}
+latest {'Doc1.docx': [[517]]}
+lead {'Doc3.docx': [[13, 18, 91, 149, 192, 358, 403, 892, 989, 1030, 1074, 1169, 1354, 1486, 2085, 2629, 2978, 3230, 3484, 3579]]}
+leaders {'Doc3.docx': [[403, 1030, 1074, 1169, 1354, 1486, 2085, 2629]]}
+leadership {'Doc3.docx': [[403, 1074, 1169, 1354, 1486, 2085, 2629]]}
+leading {'Doc3.docx': [[18, 192]]}
+learn {'Doc3.docx': [[2055]], 'Doc6.docx': [[1358, 1755]]}
+learning {'Doc6.docx': [[1755]]}
+left {'Doc2.docx': [[1522]]}
+leopard {'Doc6.docx': [[993, 1121]]}
+let {'Doc6.docx': [[1453, 1940]]}
+libraries {'Doc6.docx': [[2186]]}
+library {'Doc1.docx': [[227, 2213, 2256]], 'Doc2.docx': [[235, 3272, 3315]], 'Doc5.docx': [[252]], 'Doc6.docx': [[1576, 1884]]}
+lifestyle {'Doc5.docx': [[467]]}
+like {'Doc3.docx': [[3558]]}
+limited {'Doc2.docx': [[1999]], 'Doc3.docx': [[2368]]}
+link {'Doc3.docx': [[3510]], 'Doc4.docx': [[1099, 1787]]}
+links {'Doc1.docx': [[2506]], 'Doc2.docx': [[2413, 3565]], 'Doc4.docx': [[1787]], 'Doc5.docx': [[939, 992]], 'Doc6.docx': [[1695, 1855]]}
+list {'Doc1.docx': [[1438]]}
+lists {'Doc6.docx': [[1151]]}
+local {'Doc1.docx': [[488, 1171]]}
+locally {'Doc1.docx': [[488]]}
+location {'Doc2.docx': [[2097]]}
+locations {'Doc1.docx': [[951]]}
+login {'Doc5.docx': [[958, 1016]], 'Doc6.docx': [[2062]]}
+logistics {'Doc3.docx': [[2667]]}
+logo {'Doc4.docx': [[51]], 'Doc6.docx': [[2116]]}
+look {'Doc6.docx': [[1291]]}
+lorene {'Doc5.docx': [[578]]}
+lou {'Doc5.docx': [[543]]}
+lucas {'Doc1.docx': [[971]]}
+lucile {'Doc1.docx': [[1930]], 'Doc2.docx': [[2989]]}
+mac {'Doc6.docx': [[424, 980, 1108]]}
+machines {'Doc6.docx': [[424]]}
+made {'Doc2.docx': [[2539]]}
+magnetic {'Doc1.docx': [[977]]}
+mail {'Doc2.docx': [[2395]]}
+main {'Doc3.docx': [[2961]]}
+major {'Doc2.docx': [[1452]]}
+making {'Doc2.docx': [[2498]]}
+managed {'Doc6.docx': [[1022]]}
+management {'Doc1.docx': [[1579]]}
+manager {'Doc5.docx': [[649]]}
+mandatory {'Doc3.docx': [[3104]]}
+manufacturers {'Doc4.docx': [[474]]}
+many {'Doc4.docx': [[147]], 'Doc5.docx': [[403]]}
+maps {'Doc1.docx': [[2439]], 'Doc2.docx': [[3498]]}
+mark {'Doc2.docx': [[2116]]}
+mathematical {'Doc4.docx': [[215]]}
+may {'Doc3.docx': [[799]]}
+mcguire {'Doc5.docx': [[624]]}
+meals {'Doc3.docx': [[2729]]}
+means {'Doc3.docx': [[1370]]}
+medical {'Doc1.docx': [[174, 373, 904, 2175, 2205]], 'Doc2.docx': [[182, 647, 3234, 3264]], 'Doc5.docx': [[199]]}
+medicine {'Doc1.docx': [[47, 75, 1206, 1225, 1798, 1826, 2003, 2135, 2571]], 'Doc2.docx': [[72, 100, 609, 2573, 2592, 2857, 2885, 3062, 3194, 3606]], 'Doc5.docx': [[86, 114, 783, 802, 1046]]}
+meeting {'Doc3.docx': [[664, 2117, 3166, 3318]]}
+meetings {'Doc3.docx': [[664, 2117, 3318]]}
+member {'Doc5.docx': [[945, 1009]]}
+members {'Doc1.docx': [[2534]], 'Doc5.docx': [[945]]}
+membership {'Doc4.docx': [[1763]]}
+methods {'Doc3.docx': [[1234]], 'Doc4.docx': [[256, 1422]]}
+meyer {'Doc6.docx': [[676, 1272, 1341, 1570]]}
+mhr {'Doc2.docx': [[2265]]}
+midnight {'Doc6.docx': [[1632, 1676]]}
+mike {'Doc2.docx': [[2306]]}
+mission {'Doc1.docx': [[271, 2155]]}
+mls {'Doc5.docx': [[714]]}
+model {'Doc3.docx': [[915, 1065, 1117, 1290, 1477, 1761, 1955, 2287]], 'Doc4.docx': [[228, 1406]]}
+models {'Doc4.docx': [[228]]}
+mon {'Doc6.docx': [[1221, 1617]]}
+monitoring {'Doc1.docx': [[802]], 'Doc4.docx': [[1621]]}
+montage {'Doc6.docx': [[1221]]}
+morning {'Doc2.docx': [[1221]]}
+moved {'Doc2.docx': [[662]]}
+movements {'Doc3.docx': [[1431]]}
+mph {'Doc5.docx': [[636, 671]]}
+multimedia {'Doc6.docx': [[283, 1210, 1237, 1771]]}
+multiscale {'Doc4.docx': [[1165]]}
+museum {'Doc2.docx': [[1195]]}
+myer {'Doc2.docx': [[2301]]}
+named {'Doc2.docx': [[789]]}
+nav {'Doc2.docx': [[2651, 2662, 2668, 2674, 2682, 2690, 2698, 2704, 2712, 2720, 2728, 2738, 2748, 2758, 2764, 2772, 2780, 2788, 2794, 2802, 2810, 2818, 2824, 2832, 2840]]}
+navigation {'Doc1.docx': [[1271, 1374]], 'Doc2.docx': [[2651]], 'Doc4.docx': [[1578]], 'Doc5.docx': [[835, 974]]}
+need {'Doc2.docx': [[2183]]}
+needs {'Doc6.docx': [[261]]}
+nelson {'Doc5.docx': [[585]]}
+network {'Doc6.docx': [[206, 1793]]}
+new {'Doc1.docx': [[588, 696, 755, 2012, 2274, 2340, 2348, 2388, 2468]], 'Doc2.docx': [[3071, 3333, 3399, 3407, 3447, 3527]], 'Doc6.docx': [[233, 514, 524, 646]]}
+news {'Doc1.docx': [[2012, 2274, 2388, 2468]], 'Doc2.docx': [[3071, 3333, 3447, 3527]], 'Doc6.docx': [[514]]}
+newsletter {'Doc1.docx': [[2274, 2468]], 'Doc2.docx': [[3333, 3527]]}
+non {'Doc3.docx': [[1152, 1337]]}
+novel {'Doc6.docx': [[1320, 1428]]}
+numerical {'Doc4.docx': [[553]]}
+ocean {'Doc2.docx': [[1584]]}
+october {'Doc3.docx': [[3258, 3284]]}
+offered {'Doc3.docx': [[981]]}
+offsite {'Doc3.docx': [[3235]]}
+one {'Doc2.docx': [[755, 948]], 'Doc3.docx': [[573, 811, 2950]]}
+open {'Doc2.docx': [[1527]], 'Doc3.docx': [[433]]}
+opportunities {'Doc1.docx': [[1490]]}
+optimization {'Doc4.docx': [[1335]]}
+optional {'Doc2.docx': [[1536, 1734]]}
+orient {'Doc3.docx': [[1932]]}
+osx {'Doc6.docx': [[984, 1112]]}
+others {'Doc4.docx': [[410]]}
+overnight {'Doc3.docx': [[2700]]}
+overview {'Doc1.docx': [[1400, 1452, 1517, 1634, 1848, 1984, 2116, 2231, 2379]], 'Doc2.docx': [[2907, 3043, 3175, 3290, 3438]]}
+pacific {'Doc2.docx': [[1576]]}
+packard {'Doc1.docx': [[1937]], 'Doc2.docx': [[2996]]}
+page {'Doc5.docx': [[679]], 'Doc6.docx': [[1205]]}
+palo {'Doc2.docx': [[699]]}
+parallel {'Doc4.docx': [[492]]}
+participant {'Doc3.docx': [[2126, 2906, 2919, 3049, 3130]]}
+participants {'Doc2.docx': [[2014]], 'Doc3.docx': [[2126, 2906, 3049, 3130]]}
+participation {'Doc3.docx': [[875]]}
+partnerships {'Doc1.docx': [[2325]], 'Doc2.docx': [[3384]]}
+patient {'Doc1.docx': [[824, 1338, 1504, 1545]]}
+patients {'Doc1.docx': [[1545]], 'Doc5.docx': [[891]]}
+people {'Doc2.docx': [[1669]]}
+per {'Doc3.docx': [[839, 1530, 1986, 2392, 2642]]}
+performance {'Doc4.docx': [[778]]}
+person {'Doc1.docx': [[208, 255, 2421]], 'Doc2.docx': [[216, 263, 3480]], 'Doc5.docx': [[233, 280]]}
+persons {'Doc3.docx': [[1530]]}
+pertaining {'Doc4.docx': [[1122]]}
+phd {'Doc5.docx': [[592, 632]]}
+physical {'Doc4.docx': [[631]]}
+physician {'Doc1.docx': [[459, 1530, 1864]], 'Doc2.docx': [[2923]]}
+physicians {'Doc1.docx': [[459, 1530]]}
+physics {'Doc4.docx': [[1114]]}
+places {'Doc2.docx': [[1658]]}
+plan {'Doc3.docx': [[685, 2149]]}
+planning {'Doc1.docx': [[789]], 'Doc3.docx': [[685]]}
+player {'Doc2.docx': [[316]]}
+please {'Doc2.docx': [[2109, 2482]], 'Doc3.docx': [[108]], 'Doc6.docx': [[1179]]}
+powered {'Doc1.docx': [[2593]], 'Doc2.docx': [[3628]], 'Doc5.docx': [[1068]]}
+practical {'Doc3.docx': [[2305]]}
+practice {'Doc2.docx': [[1397]]}
+pre {'Doc3.docx': [[2526, 3065, 3154, 3207]]}
+predictive {'Doc4.docx': [[1312]]}
+premier {'Doc2.docx': [[966]]}
+presence {'Doc4.docx': [[818]]}
+present {'Doc3.docx': [[2526, 3065, 3207]]}
+president {'Doc6.docx': [[936]]}
+previously {'Doc2.docx': [[843]]}
+primarily {'Doc4.docx': [[965]]}
+print {'Doc6.docx': [[392, 406, 1813]]}
+printing {'Doc6.docx': [[392, 1813]]}
+prior {'Doc3.docx': [[2583, 3183]]}
+process {'Doc3.docx': [[2351]]}
+production {'Doc6.docx': [[1248, 1378, 1782]]}
+productivity {'Doc4.docx': [[708]]}
+professional {'Doc3.docx': [[925]]}
+profiles {'Doc1.docx': [[2086]], 'Doc2.docx': [[3145]]}
+program {'Doc2.docx': [[397, 631, 1486, 1771, 3203]], 'Doc3.docx': [[553, 1842, 2194, 2757, 2898, 3122, 3489]], 'Doc4.docx': [[893, 936]]}
+programs {'Doc1.docx': [[2144]], 'Doc2.docx': [[631, 1486, 3203]], 'Doc5.docx': [[821]]}
+project {'Doc3.docx': [[154, 363, 677, 760, 3379]], 'Doc6.docx': [[835, 881, 1326, 1434]]}
+projectors {'Doc6.docx': [[835, 881]]}
+projects {'Doc1.docx': [[2361]], 'Doc2.docx': [[3420]]}
+protocol {'Doc1.docx': [[1554]]}
+proud {'Doc3.docx': [[336]]}
+provide {'Doc2.docx': [[1344]]}
+provided {'Doc3.docx': [[2743]]}
+public {'Doc1.docx': [[2298]], 'Doc2.docx': [[3357]], 'Doc6.docx': [[417, 1005]]}
+purpose {'Doc3.docx': [[1695, 2966]]}
+purposes {'Doc3.docx': [[2966]]}
+quantitative {'Doc1.docx': [[91, 336, 547, 635]]}
+quarter {'Doc3.docx': [[582, 782, 843]], 'Doc6.docx': [[1609]]}
+question {'Doc6.docx': [[1561, 2048]]}
+questions {'Doc2.docx': [[2223]]}
+quick {'Doc6.docx': [[1689]]}
+radiology {'Doc1.docx': [[3, 133, 1246]]}
+ranges {'Doc4.docx': [[1226]]}
+reached {'Doc2.docx': [[2254]]}
+read {'Doc3.docx': [[115, 3528]], 'Doc6.docx': [[692, 806, 905, 956]]}
+reading {'Doc1.docx': [[1430]]}
+receive {'Doc3.docx': [[803]]}
+reception {'Doc2.docx': [[1144]]}
+reduce {'Doc4.docx': [[734]]}
+reduction {'Doc4.docx': [[1412]]}
+register {'Doc2.docx': [[2144, 2357]]}
+registration {'Doc2.docx': [[2370, 2400]]}
+reinforced {'Doc3.docx': [[1771]]}
+related {'Doc2.docx': [[1389]]}
+relevant {'Doc1.docx': [[865]]}
+reliability {'Doc4.docx': [[661]]}
+reminiscences {'Doc2.docx': [[1415]]}
+renewal {'Doc1.docx': [[2338]], 'Doc2.docx': [[3397]]}
+replaced {'Doc4.docx': [[622]]}
+representative {'Doc3.docx': [[2524]]}
+required {'Doc3.docx': [[2658]]}
+requirements {'Doc3.docx': [[3087]]}
+requires {'Doc3.docx': [[3031]]}
+research {'Doc1.docx': [[568, 1329, 1443, 1461, 1481, 1975]], 'Doc2.docx': [[3034]], 'Doc4.docx': [[884, 1676, 1709]]}
+researchers {'Doc5.docx': [[386, 917]]}
+reserved {'Doc4.docx': [[1514]]}
+residential {'Doc6.docx': [[1907]]}
+resonance {'Doc1.docx': [[986]]}
+resources {'Doc1.docx': [[1717, 1807, 2019]], 'Doc2.docx': [[2866, 3078]], 'Doc6.docx': [[2219]]}
+responsibility {'Doc3.docx': [[1562]]}
+result {'Doc1.docx': [[684]], 'Doc4.docx': [[546]]}
+retreat {'Doc3.docx': [[598, 1919, 2021, 2677, 3158, 3196, 3243, 3445]]}
+return {'Doc2.docx': [[1872]]}
+richard {'Doc1.docx': [[961]]}
+rights {'Doc4.docx': [[1507]]}
+risk {'Doc5.docx': [[489]]}
+rodin {'Doc2.docx': [[1161]]}
+rosenthal {'Doc2.docx': [[2311]]}
+sample {'Doc3.docx': [[2539]]}
+san {'Doc2.docx': [[733]]}
+sat {'Doc6.docx': [[1653]]}
+saturday {'Doc2.docx': [[1212, 1495, 1692, 2080]], 'Doc3.docx': [[3275]]}
+scales {'Doc4.docx': [[1253]]}
+schedule {'Doc2.docx': [[377]]}
+scheduling {'Doc6.docx': [[361]]}
+schemes {'Doc4.docx': [[1288]]}
+school {'Doc1.docx': [[37, 65, 1215, 1993, 2125, 2561]], 'Doc2.docx': [[62, 90, 599, 655, 2582, 3052, 3184, 3596]], 'Doc5.docx': [[76, 104, 792, 1036]], 'Doc6.docx': [[609]]}
+scientific {'Doc2.docx': [[386, 1244]]}
+sclerosis {'Doc5.docx': [[526]]}
+sculpture {'Doc2.docx': [[1167]]}
+search {'Doc1.docx': [[143, 570, 1331, 1445, 1463, 1483, 1977]], 'Doc2.docx': [[151, 3036]], 'Doc4.docx': [[886, 1669, 1678, 1711]], 'Doc5.docx': [[168, 388, 919]], 'Doc6.docx': [[32, 68]]}
+searching {'Doc3.docx': [[1210]]}
+section {'Doc1.docx': [[1291]], 'Doc5.docx': [[855]]}
+selected {'Doc3.docx': [[2420]]}
+selection {'Doc3.docx': [[2341]]}
+self {'Doc3.docx': [[1647]]}
+sense {'Doc3.docx': [[1547]]}
+separate {'Doc2.docx': [[556]]}
+sept {'Doc6.docx': [[553]]}
+september {'Doc2.docx': [[1084]]}
+service {'Doc1.docx': [[1662, 2305]], 'Doc2.docx': [[3364]]}
+services {'Doc1.docx': [[1662]], 'Doc3.docx': [[4, 294, 2835]], 'Doc6.docx': [[19, 124, 727, 1063, 1871, 2140]]}
+session {'Doc2.docx': [[1255]]}
+setting {'Doc3.docx': [[2219]]}
+seven {'Doc3.docx': [[1612]]}
+shattered {'Doc4.docx': [[452]]}
+simulation {'Doc4.docx': [[563, 1323]]}
+simulations {'Doc4.docx': [[1323]]}
+since {'Doc3.docx': [[994, 2944]]}
+sincerely {'Doc2.docx': [[1837, 2291]]}
+site {'Doc1.docx': [[155, 182, 1369]], 'Doc2.docx': [[163, 190, 2202, 2386, 2466, 2646]], 'Doc5.docx': [[180, 207, 969]], 'Doc6.docx': [[50, 80, 1490, 1977]]}
+sites {'Doc1.docx': [[182]], 'Doc2.docx': [[190]], 'Doc5.docx': [[207]]}
+small {'Doc3.docx': [[2207, 3413]]}
+snow {'Doc6.docx': [[988, 1116]]}
+social {'Doc3.docx': [[746, 901, 1051, 1276, 1445, 1463, 1594, 1799, 2067, 2168, 2273, 3365]]}
+software {'Doc1.docx': [[1590]], 'Doc6.docx': [[383, 1170, 1196, 1735]]}
+solution {'Doc4.docx': [[275]]}
+something {'Doc6.docx': [[1531, 2018]]}
+space {'Doc3.docx': [[2359]], 'Doc4.docx': [[181, 848, 986, 1021, 1589]]}
+spaces {'Doc6.docx': [[1764]]}
+spatial {'Doc4.docx': [[1245]]}
+special {'Doc2.docx': [[1650]]}
+specialties {'Doc5.docx': [[408]]}
+speed {'Doc4.docx': [[427]]}
+spouse {'Doc2.docx': [[2037]]}
+staff {'Doc1.docx': [[1692]], 'Doc3.docx': [[938, 1861, 2436]], 'Doc6.docx': [[171]]}
+stanford {'Doc1.docx': [[17, 56, 165, 932, 1030, 1109, 1197, 1789, 1817, 1902, 2240, 2479, 2552]], 'Doc2.docx': [[0, 42, 81, 109, 173, 454, 579, 675, 2269, 2419, 2439, 2519, 2564, 2848, 2876, 2961, 3299, 3538, 3587]], 'Doc3.docx': [[519, 618]], 'Doc4.docx': [[1483]], 'Doc5.docx': [[56, 95, 190, 774, 1027]], 'Doc6.docx': [[59, 85, 465, 1303, 1411, 1846, 2166, 2229, 2249]]}
+states {'Doc2.docx': [[1013]]}
+stressed {'Doc3.docx': [[1745]]}
+strides {'Doc4.docx': [[117]]}
+strong {'Doc3.docx': [[1540]], 'Doc4.docx': [[811]]}
+structural {'Doc4.docx': [[331, 1603]]}
+student {'Doc3.docx': [[455, 627, 716, 790, 1201, 1939, 2029, 2383, 2403, 2549, 3401]], 'Doc4.docx': [[1701]], 'Doc6.docx': [[146, 709, 1827]]}
+students {'Doc3.docx': [[455, 627, 790, 1201, 1939, 2029, 2383, 2403, 2549, 3401]], 'Doc6.docx': [[146]]}
+studies {'Doc1.docx': [[1604]], 'Doc5.docx': [[43, 155, 344]]}
+studio {'Doc6.docx': [[294]]}
+submit {'Doc6.docx': [[1541, 2028]]}
+sulair {'Doc6.docx': [[2109]]}
+sun {'Doc6.docx': [[1665, 2084]]}
+sunetid {'Doc6.docx': [[2084]]}
+support {'Doc6.docx': [[346, 821]]}
+supports {'Doc6.docx': [[821]]}
+surgery {'Doc2.docx': [[890]]}
+surveys {'Doc6.docx': [[736]]}
+sustainable {'Doc4.docx': [[1632]]}
+swallt {'Doc6.docx': [[949]]}
+system {'Doc4.docx': [[771, 1394, 1595]]}
+systems {'Doc4.docx': [[1394, 1595]]}
+tech {'Doc6.docx': [[372, 493, 682, 1052, 1710, 1866]]}
+techniques {'Doc1.docx': [[311, 759]]}
+technologists {'Doc1.docx': [[474]]}
+technology {'Doc6.docx': [[372, 1052, 1710]]}
+terms {'Doc1.docx': [[2580]], 'Doc2.docx': [[3615]], 'Doc5.docx': [[1055]], 'Doc6.docx': [[2280]]}
+testimonials {'Doc1.docx': [[1612]]}
+tests {'Doc4.docx': [[640]]}
+text {'Doc3.docx': [[124, 3537]]}
+therapy {'Doc1.docx': [[816]]}
+thereby {'Doc3.docx': [[2227]]}
+things {'Doc2.docx': [[356]]}
+think {'Doc6.docx': [[1474, 1961]]}
+thu {'Doc6.docx': [[1621]]}
+thursday {'Doc3.docx': [[3174, 3333]]}
+tie {'Doc2.docx': [[351, 1551, 1730]]}
+time {'Doc2.docx': [[1615, 2286]], 'Doc4.docx': [[754, 1236]]}
+tool {'Doc3.docx': [[1192]]}
+topol {'Doc5.docx': [[665]]}
+tours {'Doc2.docx': [[1597]]}
+train {'Doc1.docx': [[453, 2107]]}
+training {'Doc1.docx': [[2107]], 'Doc2.docx': [[3166]], 'Doc3.docx': [[1008]], 'Doc6.docx': [[498]]}
+transportation {'Doc3.docx': [[2685]]}
+trials {'Doc1.docx': [[2038]], 'Doc2.docx': [[3097]]}
+trouble {'Doc6.docx': [[1515, 2002]]}
+two {'Doc4.docx': [[99]]}
+ubiquitous {'Doc4.docx': [[530]]}
+undergrads {'Doc6.docx': [[761]]}
+undergraduate {'Doc3.docx': [[441]]}
+understanding {'Doc3.docx': [[2252]]}
+unit {'Doc3.docx': [[175, 288, 384, 541, 815, 962, 1264, 1909, 2453, 2612, 2829, 3006]]}
+united {'Doc2.docx': [[1006]]}
+university {'Doc1.docx': [[26, 2488]], 'Doc2.docx': [[51, 588, 3547]], 'Doc4.docx': [[1492]], 'Doc5.docx': [[65]], 'Doc6.docx': [[94, 2175, 2238]]}
+update {'Doc2.docx': [[1360]]}
+updated {'Doc6.docx': [[569]]}
+upgraded {'Doc6.docx': [[1082]]}
+use {'Doc1.docx': [[2589]], 'Doc2.docx': [[1196, 2040, 3624]], 'Doc5.docx': [[1064]], 'Doc6.docx': [[1399, 2057, 2289]]}
+used {'Doc6.docx': [[1399]]}
+useful {'Doc3.docx': [[1185]]}
+user {'Doc6.docx': [[2057]]}
+valerie {'Doc5.docx': [[616]]}
+valid {'Doc1.docx': [[848]]}
+value {'Doc3.docx': [[1307, 1623, 1896]]}
+values {'Doc3.docx': [[1623]]}
+video {'Doc6.docx': [[317]]}
+visit {'Doc2.docx': [[1562, 1644]], 'Doc6.docx': [[181, 1186]]}
+visiting {'Doc1.docx': [[1409]]}
+visitors {'Doc6.docx': [[181]]}
+visits {'Doc2.docx': [[1562]]}
+visualization {'Doc1.docx': [[874]]}
+volunteering {'Doc1.docx': [[2285]], 'Doc2.docx': [[3344]]}
+ways {'Doc1.docx': [[188, 235, 2401]], 'Doc2.docx': [[196, 243, 3460]], 'Doc5.docx': [[213, 260]]}
+web {'Doc5.docx': [[675]]}
+website {'Doc2.docx': [[2199, 2383]], 'Doc6.docx': [[1487, 1974]]}
+weekend {'Doc2.docx': [[369, 1073]], 'Doc3.docx': [[590]]}
+weekly {'Doc3.docx': [[651, 2104, 3304]]}
+welch {'Doc1.docx': [[1016]]}
+welcome {'Doc2.docx': [[412]]}
+whose {'Doc5.docx': [[420]]}
+windows {'Doc6.docx': [[966, 1094]]}
+winter {'Doc3.docx': [[775, 858]]}
+wish {'Doc3.docx': [[3460]]}
+within {'Doc2.docx': [[865]]}
+workflows {'Doc6.docx': [[1389]]}
+working {'Doc3.docx': [[1245]]}
+worldwide {'Doc1.docx': [[500]]}
+would {'Doc3.docx': [[3552]]}
+year {'Doc2.docx': [[25, 134, 432, 759, 918, 2629]], 'Doc6.docx': [[616]]}
+years {'Doc2.docx': [[918]]}
+young {'Doc3.docx': [[1524]]}
+Number of Dictionary terms generated= 691
